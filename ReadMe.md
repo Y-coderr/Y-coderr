@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey 👋 I am Yash Kadam
 I'm currently working on java <br>And also having proficiency in react and node<br>I'm java , web and also android developer
 
 
